@@ -1,0 +1,4 @@
+pyboy==2.5.1
+nextcord==3.0.1
+ruff==0.9.9
+pre-commit==4.1.0
